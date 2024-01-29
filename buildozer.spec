@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Special Sideshow
+title = XMPhotos
 
 # (str) Package name
 package.name = myapp
